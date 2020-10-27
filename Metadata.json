@@ -1,7 +1,7 @@
 {
     "Author": "Rick_Anderson",
     "ContentSize": 10203,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/ultimate-create-web-site,-sql-db-and-storage-with-build-in-diagnostics/master/New-AzureWebsitewithDB.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/ultimate-create-web-site--sql-db-and-storage-with-build-in-diagnostics/master/New-AzureWebsitewithDB.ps1",
     "DownloadCount": 2188,
     "Id": "Ultimate-Create-Web-SQL-DB-9e0fdfd3",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This sample is a modified version of New-AzureWebsitewithDB.ps1 with built in testing. Pass in -testScript \"TEST\", and the script creates a random string, and uses that string to create all the resources (SQL DB, Web site, Storage) then deletes them at the end. You can use",
     "Title": "Ultimate Create Web site, SQL DB and storage with build in diagnostics",
     "UpdatedDate": "2015-3-5T00:00:00",
-    "Url": "https://github.com/azureautomation/ultimate-create-web-site,-sql-db-and-storage-with-build-in-diagnostics",
+    "Url": "https://github.com/azureautomation/ultimate-create-web-site--sql-db-and-storage-with-build-in-diagnostics",
     "UserTags": "automatic testing"
 }
